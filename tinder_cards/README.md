@@ -1,6 +1,8 @@
 # tinder_cards
 
-A new Flutter project.
+This project is about a tinder cards which can be swipped right to see the next person. The app is not fully developed and one can only slide through the person but it will come back to its original state. The buttons are not yet functional so no actions will be implied on pressing the buttons. 
+
+Will be updating the project soon.
 
 ## Getting Started
 
